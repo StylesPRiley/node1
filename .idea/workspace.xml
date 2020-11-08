@@ -10,9 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b552ddb7-a71a-4242-aa7f-263bb8944d80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +86,7 @@
       <workItem from="1604814986785" duration="190000" />
       <workItem from="1604815183727" duration="1355000" />
       <workItem from="1604817108422" duration="498000" />
-      <workItem from="1604876311391" duration="1813000" />
+      <workItem from="1604876311391" duration="2102000" />
     </task>
     <task id="LOCAL-00001" summary="what's going wrong?">
       <created>1604733359011</created>
@@ -126,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604877145609</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes to package.json">
+      <created>1604878142224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604878142224</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +148,10 @@
       <screen x="-1920" y="-57" width="1920" height="1057" />
     </state>
     <state x="-1509" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1604350628065" />
-    <state x="294" y="82" key="CommitChangelistDialog2" timestamp="1604877144136">
+    <state x="294" y="82" key="CommitChangelistDialog2" timestamp="1604878141368">
       <screen x="0" y="0" width="1440" height="1003" />
     </state>
-    <state x="294" y="82" key="CommitChangelistDialog2/0.0.1440.1003@0.0.1440.1003" timestamp="1604877144136" />
+    <state x="294" y="82" key="CommitChangelistDialog2/0.0.1440.1003@0.0.1440.1003" timestamp="1604878141368" />
     <state width="1397" height="269" key="GridCell.Tab.0.bottom" timestamp="1604877125975">
       <screen x="0" y="0" width="1440" height="1003" />
     </state>
