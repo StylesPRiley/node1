@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
   "author": "",
   "license": "ISC"
 }
